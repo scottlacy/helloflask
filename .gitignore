@@ -1,0 +1,8 @@
+# Virtualenv
+.Python
+bin
+lib
+include
+
+# Mac files
+.DS_Store
